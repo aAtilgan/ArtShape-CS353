@@ -1,2 +1,2 @@
 # ArtShape-CS353
-CS 353 Database Systems Term Project
+All relevant data/reports related to the project will be posted here.
